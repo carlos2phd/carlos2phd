@@ -1,11 +1,12 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Carlos Patiño!</h1>
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, soy Carlos Patiño!</h1>
 
 
-- 💬 Ask me about Anything!
-- 📫 How to reach me: Please take a look at my Social Media Below!
-- ⚡ Fun fact: I stay in front of my Laptop a lot!
+- 💬 Ask me about Anything!                                           Pregúntame lo que sea!
+- 📫 How to reach me: Please take a look at my Social Media Below!    ¿Cómo contactarme?: ¡sigue mis redes sociales abajo!  
+
 
 A Flutter Developer by heart and mind! a self-taught Flutter developer who is passionate about building real-world Apps.
  I managed to create an online presence with my [Blog](https://bennkhay113.hashnode.dev/) and [Instagram](https://www.instagram.com/yassine_dev1/) page which I share on them useful stuff about Flutter and Dart.
@@ -40,7 +41,7 @@ A Flutter Developer by heart and mind! a self-taught Flutter developer who is pa
   <i> Don't be a stranger! come and say Hi, let's connect and collaborate together.</i>
 
   <p align="center">
-    <a target= "_blank" href="https://www.facebook.com/profile.php?id=100006392266503" alt="Facebook"><img height='45' src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/icons/facebook_icon.png"></a>
+    <a target= "_blank" href="https://www.facebook.com/carlosphd" alt="Facebook"><img height='45' src="https://github.com/carlos2phd/carlos2phd/blob/main/icons/facebook_icon.png"></a>
     <a target= "_blank" href="https://hashnode.com/@yassine-bennkhay" alt="Hashnode"><img height='45' src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/icons/hashnode_icon.png"></a>
     <a target= "_blank" href="https://www.instagram.com/yassine_dev1/" alt="Instagram"><img height='45' src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/icons/Instagram_icon.png"></a>
     <a target= "_blank" href="https://www.linkedin.com/in/yassine-bennkhay-0b73411b4/" alt="LinkedIn"><img height='45' src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/icons/linkedin_icon.png"></a>
